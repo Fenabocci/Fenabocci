@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/awesome777jay" target="blank"><img src="https://img.shields.io/twitter/follow/awesome777jay?logo=twitter&style=for-the-badge" alt="awesome777jay" /></a> </p>
 
-- 🌱 I’m currently learning **MS Fabric Analytics Engineering**
+- 🌱 I’m currently  **MS Fabric Analytics Engineer**
 
 - 📝 I regularly write articles on [https://medium.com/@jumahanje](https://medium.com/@jumahanje)
 
